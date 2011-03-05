@@ -1,0 +1,533 @@
+<mockup version="1.0" skin="sketch" measuredW="1181" measuredH="523" mockupW="1010" mockupH="508">
+  <controls>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Canvas" x="171" y="15" w="409" h="285" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>11982760</color>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Button" x="596" y="262" w="237" h="29" measuredW="72" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <text>SUBMIT</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Canvas" x="590" y="21" w="253" h="279" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>10066329</borderColor>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::TextInput" x="596" y="234" w="237" h="-1" measuredW="144" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>14540253</color>
+        <text>enter%20chat%20message...</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Button" x="181" y="419" w="379" h="51" measuredW="133" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10470904</color>
+        <text>CHANGE%20MY%20VOTE</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::TextArea" x="596" y="30" w="237" h="204" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>john%3A%20How%20are%20we%20going%20to%20do%20xyz%3F%0AAnn%3A%20Don%27t%20sweat%20the%20small%20stuff%0AEric%3A%20Ok%2C%20let%27s%20vote%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Canvas" x="172" y="311" w="403" h="174" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="383" y="331" w="178" h="37" measuredW="164" measuredH="37" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Your%20Vote%20is%204</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Icon" x="188" y="338" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SpinningIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="212" y="330" w="178" h="37" measuredW="142" measuredH="37" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>WAITING%20...</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="__group__" x="196" y="34" w="51" h="112" measuredW="51" measuredH="112" zOrder="11" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="47" h="47" measuredW="80" measuredH="80" zOrder="0" locked="false" isInGroup="40">
+          <controlProperties>
+            <src>./gravatar.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="47" w="47" h="23" measuredW="25" measuredH="19" zOrder="1" locked="false" isInGroup="40">
+          <controlProperties>
+            <align>center</align>
+            <size>10</size>
+            <text>John</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="66" w="51" h="46" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="40"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="14" y="69" w="-1" h="-1" measuredW="16" measuredH="41" zOrder="3" locked="false" isInGroup="40">
+          <controlProperties>
+            <size>28</size>
+            <text>%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="41" controlTypeID="__group__" x="258" y="36" w="51" h="112" measuredW="51" measuredH="112" zOrder="12" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="47" h="47" measuredW="80" measuredH="80" zOrder="0" locked="false" isInGroup="41">
+          <controlProperties>
+            <src>./gravatar_jgoodsen.jpeg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="47" w="47" h="23" measuredW="25" measuredH="19" zOrder="1" locked="false" isInGroup="41">
+          <controlProperties>
+            <align>center</align>
+            <size>10</size>
+            <text>John</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="66" w="51" h="46" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="41"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="14" y="69" w="-1" h="-1" measuredW="16" measuredH="41" zOrder="3" locked="false" isInGroup="41">
+          <controlProperties>
+            <size>28</size>
+            <text>%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="45" controlTypeID="__group__" x="196" y="164" w="51" h="112" measuredW="51" measuredH="112" zOrder="13" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="47" h="47" measuredW="80" measuredH="80" zOrder="0" locked="false" isInGroup="45">
+          <controlProperties>
+            <src>./gravatar.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="47" w="47" h="23" measuredW="25" measuredH="19" zOrder="1" locked="false" isInGroup="45">
+          <controlProperties>
+            <align>center</align>
+            <size>10</size>
+            <text>John</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="66" w="51" h="46" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="45"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="14" y="69" w="-1" h="-1" measuredW="16" measuredH="41" zOrder="3" locked="false" isInGroup="45">
+          <controlProperties>
+            <size>28</size>
+            <text>%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="66" w="51" h="46" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="45">
+          <controlProperties>
+            <borderColor>13576743</borderColor>
+            <color>15374745</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="46" controlTypeID="__group__" x="258" y="166" w="51" h="112" measuredW="51" measuredH="112" zOrder="14" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="47" h="47" measuredW="80" measuredH="80" zOrder="0" locked="false" isInGroup="46">
+          <controlProperties>
+            <src>./gravatar_jgoodsen.jpeg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="47" w="47" h="23" measuredW="25" measuredH="19" zOrder="1" locked="false" isInGroup="46">
+          <controlProperties>
+            <align>center</align>
+            <size>10</size>
+            <text>John</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="66" w="51" h="46" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="46"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="14" y="69" w="-1" h="-1" measuredW="16" measuredH="41" zOrder="3" locked="false" isInGroup="46">
+          <controlProperties>
+            <size>28</size>
+            <text>%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="47" controlTypeID="__group__" x="315" y="163" w="51" h="112" measuredW="51" measuredH="112" zOrder="15" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="47" h="47" measuredW="80" measuredH="80" zOrder="0" locked="false" isInGroup="47">
+          <controlProperties>
+            <src>./gravatar.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="47" w="47" h="23" measuredW="25" measuredH="19" zOrder="1" locked="false" isInGroup="47">
+          <controlProperties>
+            <align>center</align>
+            <size>10</size>
+            <text>John</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="66" w="51" h="46" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="47"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="14" y="69" w="-1" h="-1" measuredW="16" measuredH="41" zOrder="3" locked="false" isInGroup="47">
+          <controlProperties>
+            <size>28</size>
+            <text>%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="52" controlTypeID="__group__" x="382" y="35" w="51" h="112" measuredW="51" measuredH="112" zOrder="16" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="47" h="47" measuredW="80" measuredH="80" zOrder="0" locked="false" isInGroup="52">
+          <controlProperties>
+            <src>./gravatar.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="47" w="47" h="23" measuredW="25" measuredH="19" zOrder="1" locked="false" isInGroup="52">
+          <controlProperties>
+            <align>center</align>
+            <size>10</size>
+            <text>John</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="66" w="51" h="46" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="52"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="14" y="69" w="-1" h="-1" measuredW="16" measuredH="41" zOrder="3" locked="false" isInGroup="52">
+          <controlProperties>
+            <size>28</size>
+            <text>%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="66" w="51" h="46" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="52">
+          <controlProperties>
+            <borderColor>40463</borderColor>
+            <color>11982760</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="53" controlTypeID="__group__" x="444" y="37" w="51" h="112" measuredW="51" measuredH="112" zOrder="17" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="47" h="47" measuredW="80" measuredH="80" zOrder="0" locked="false" isInGroup="53">
+          <controlProperties>
+            <src>./gravatar_jgoodsen.jpeg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="47" w="47" h="23" measuredW="25" measuredH="19" zOrder="1" locked="false" isInGroup="53">
+          <controlProperties>
+            <align>center</align>
+            <size>10</size>
+            <text>John</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="66" w="51" h="46" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="53"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="14" y="69" w="-1" h="-1" measuredW="16" measuredH="41" zOrder="3" locked="false" isInGroup="53">
+          <controlProperties>
+            <size>28</size>
+            <text>%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="66" w="51" h="46" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="53">
+          <controlProperties>
+            <borderColor>40463</borderColor>
+            <color>11982760</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="54" controlTypeID="__group__" x="382" y="165" w="51" h="112" measuredW="51" measuredH="112" zOrder="18" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="47" h="47" measuredW="80" measuredH="80" zOrder="0" locked="false" isInGroup="54">
+          <controlProperties>
+            <src>./gravatar.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="47" w="47" h="23" measuredW="25" measuredH="19" zOrder="1" locked="false" isInGroup="54">
+          <controlProperties>
+            <align>center</align>
+            <size>10</size>
+            <text>John</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="66" w="51" h="46" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="54"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="14" y="69" w="-1" h="-1" measuredW="16" measuredH="41" zOrder="3" locked="false" isInGroup="54">
+          <controlProperties>
+            <size>28</size>
+            <text>%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="66" w="51" h="46" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="54">
+          <controlProperties>
+            <borderColor>13576743</borderColor>
+            <color>15374745</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="55" controlTypeID="__group__" x="444" y="167" w="51" h="112" measuredW="51" measuredH="112" zOrder="19" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="47" h="47" measuredW="80" measuredH="80" zOrder="0" locked="false" isInGroup="55">
+          <controlProperties>
+            <src>./gravatar_jgoodsen.jpeg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="47" w="47" h="23" measuredW="25" measuredH="19" zOrder="1" locked="false" isInGroup="55">
+          <controlProperties>
+            <align>center</align>
+            <size>10</size>
+            <text>John</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="66" w="51" h="46" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="55"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="14" y="69" w="-1" h="-1" measuredW="16" measuredH="41" zOrder="3" locked="false" isInGroup="55">
+          <controlProperties>
+            <size>28</size>
+            <text>%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="66" w="51" h="46" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="55">
+          <controlProperties>
+            <borderColor>13576743</borderColor>
+            <color>15374745</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="56" controlTypeID="__group__" x="501" y="164" w="51" h="112" measuredW="51" measuredH="112" zOrder="20" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="47" h="47" measuredW="80" measuredH="80" zOrder="0" locked="false" isInGroup="56">
+          <controlProperties>
+            <src>./gravatar.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="47" w="47" h="23" measuredW="25" measuredH="19" zOrder="1" locked="false" isInGroup="56">
+          <controlProperties>
+            <align>center</align>
+            <size>10</size>
+            <text>John</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="66" w="51" h="46" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="56"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="14" y="69" w="-1" h="-1" measuredW="16" measuredH="41" zOrder="3" locked="false" isInGroup="56">
+          <controlProperties>
+            <size>28</size>
+            <text>%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="57" controlTypeID="__group__" x="510" y="37" w="51" h="112" measuredW="51" measuredH="112" zOrder="21" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="47" h="47" measuredW="80" measuredH="80" zOrder="0" locked="false" isInGroup="57">
+          <controlProperties>
+            <src>./gravatar_jgoodsen.jpeg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="47" w="47" h="23" measuredW="25" measuredH="19" zOrder="1" locked="false" isInGroup="57">
+          <controlProperties>
+            <align>center</align>
+            <size>10</size>
+            <text>John</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="66" w="51" h="46" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="57">
+          <controlProperties>
+            <borderColor>13576743</borderColor>
+            <color>15374745</color>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="14" y="69" w="-1" h="-1" measuredW="16" measuredH="41" zOrder="3" locked="false" isInGroup="57">
+          <controlProperties>
+            <size>28</size>
+            <text>%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::CallOut" x="885" y="271" w="-1" h="-1" measuredW="34" measuredH="45" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::CallOut" x="898" y="291" w="-1" h="-1" measuredW="283" measuredH="45" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20Disable%20ability%20to%20chat%20after%20vote%20is%20cast</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Arrow" x="848" y="247" w="59" h="44" measuredW="150" measuredH="100" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Arrow" x="580" y="300" w="48" h="53" measuredW="150" measuredH="100" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="__group__" x="605" y="330" w="373" h="55" measuredW="373" measuredH="55" zOrder="23" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::CallOut" x="10" y="15" w="-1" h="-1" measuredW="363" measuredH="40" zOrder="0" locked="false" isInGroup="64">
+          <controlProperties>
+            <text>%20%20gravatars%20change%20indication%20status%20as%20voting%20occurs%20...</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CallOut" x="0" y="0" w="-1" h="-1" measuredW="37" measuredH="40" zOrder="1" locked="false" isInGroup="64">
+          <controlProperties>
+            <backgroundAlpha>1</backgroundAlpha>
+            <text>2</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="67" controlTypeID="__group__" x="315" y="34" w="51" h="112" measuredW="51" measuredH="112" zOrder="24" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="47" h="47" measuredW="80" measuredH="80" zOrder="0" locked="false" isInGroup="67">
+          <controlProperties>
+            <src>./gravatar_jgoodsen.jpeg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="47" w="47" h="23" measuredW="25" measuredH="19" zOrder="1" locked="false" isInGroup="67">
+          <controlProperties>
+            <align>center</align>
+            <size>10</size>
+            <text>John</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="66" w="51" h="46" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="67">
+          <controlProperties>
+            <borderColor>40463</borderColor>
+            <color>11982760</color>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="14" y="69" w="-1" h="-1" measuredW="16" measuredH="41" zOrder="3" locked="false" isInGroup="67">
+          <controlProperties>
+            <size>28</size>
+            <text>%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="70" controlTypeID="__group__" x="680" y="411" w="51" h="112" measuredW="51" measuredH="112" zOrder="25" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="47" h="47" measuredW="80" measuredH="80" zOrder="0" locked="false" isInGroup="70">
+          <controlProperties>
+            <src>./gravatar.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="47" w="47" h="23" measuredW="25" measuredH="19" zOrder="1" locked="false" isInGroup="70">
+          <controlProperties>
+            <align>center</align>
+            <size>10</size>
+            <text>John</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="66" w="51" h="46" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="70"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="14" y="69" w="-1" h="-1" measuredW="16" measuredH="41" zOrder="3" locked="false" isInGroup="70">
+          <controlProperties>
+            <size>28</size>
+            <text>%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Label" x="680" y="387" w="-1" h="-1" measuredW="53" measuredH="23" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>VOTING</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="__group__" x="746" y="411" w="51" h="112" measuredW="51" measuredH="112" zOrder="27" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="47" h="47" measuredW="80" measuredH="80" zOrder="0" locked="false" isInGroup="75">
+          <controlProperties>
+            <src>./gravatar_jgoodsen.jpeg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="47" w="47" h="23" measuredW="25" measuredH="19" zOrder="1" locked="false" isInGroup="75">
+          <controlProperties>
+            <align>center</align>
+            <size>10</size>
+            <text>John</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="66" w="51" h="46" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="75"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="14" y="69" w="-1" h="-1" measuredW="16" measuredH="41" zOrder="3" locked="false" isInGroup="75">
+          <controlProperties>
+            <size>28</size>
+            <text>%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="66" w="51" h="46" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="75">
+          <controlProperties>
+            <borderColor>40463</borderColor>
+            <color>11982760</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="76" controlTypeID="__group__" x="812" y="411" w="51" h="112" measuredW="51" measuredH="112" zOrder="28" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="47" h="47" measuredW="80" measuredH="80" zOrder="0" locked="false" isInGroup="76">
+          <controlProperties>
+            <src>./gravatar_jgoodsen.jpeg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="47" w="47" h="23" measuredW="25" measuredH="19" zOrder="1" locked="false" isInGroup="76">
+          <controlProperties>
+            <align>center</align>
+            <size>10</size>
+            <text>John</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="66" w="51" h="46" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="76">
+          <controlProperties>
+            <borderColor>13576743</borderColor>
+            <color>15374745</color>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="14" y="69" w="-1" h="-1" measuredW="16" measuredH="41" zOrder="3" locked="false" isInGroup="76">
+          <controlProperties>
+            <size>28</size>
+            <text>%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Label" x="746" y="386" w="-1" h="-1" measuredW="45" measuredH="23" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>VOTED</text>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Label" x="812" y="385" w="-1" h="-1" measuredW="58" measuredH="23" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ABSTAIN</text>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::ProgressBar" x="188" y="388" w="362" h="20" measuredW="100" measuredH="20" zOrder="31" locked="false" isInGroup="-1"/>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Arrow" x="848" y="247" w="59" h="44" measuredW="150" measuredH="100" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Label" x="188" y="374" w="330" h="22" measuredW="156" measuredH="16" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <size>8</size>
+        <text>Waiting%20for%205%20Team%20members%20to%20vote%20...</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
